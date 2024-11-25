@@ -1,1 +1,1 @@
-### Aim of the experiment
+<h3>To study hypothesis testing using &chi;<sup>2</sup> test</h3>
