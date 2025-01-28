@@ -1,0 +1,38 @@
+[
+   {
+      "question": "How is the chi-square statistics calculated?",
+      "qid": 1,
+      "option_a": "by comparing the means of two samples",
+      "option_b": "by calculating the correlation coefficient",
+      "option_c": "by calculating the standard deviation of the data",
+      "option_d": "by comparing the observed and expected frequencies",
+      "correct_option": "d"
+   },
+   {
+      "question": "In a 4&times;3 contingency table used for testing the independence of attributes A and B, the distribution of test statistic under null hypothesis is:",
+      "qid": 2,
+      "option_a": "chi-square with 6 df",
+      "option_b": "chi-square with 7 df",
+      "option_c": "chi-square with 12 df",
+      "option_d": "chi-square with 11 df",
+      "correct_option": "a"
+   },
+   {
+      "question": "What is the degree of freedom in a chi-square test?",
+      "qid": 3,
+      "option_a": "the number of observations in the data",
+      "option_b": "the number of categories in the data",
+      "option_c": "the number of independent observations in the data",
+      "option_d": "the number of variables in the data",
+      "correct_option": "c"
+   },
+   {
+      "question": "For testing whether the theoretical probability distribution is suitable for the sample data, which of the following test is to be conducted?",
+      "qid": 4,
+      "option_a": "chi-square test for independence",
+      "option_b": "chi-square test for goodness of fit",
+      "option_c": "z-test",
+      "option_d": "t-test",
+      "correct_option": "b"
+   }
+]
