@@ -1,0 +1,38 @@
+[
+   {
+      "question": "Consider a sample of 18 observations drawn from standard normal distribution. If we take the sum of squares of all these observations, then its distribution will be:",
+      "qid": 1,
+      "option_a": "standard normal distribution",
+      "option_b": "normal distribution with mean 18 and variance 36",
+      "option_c": "chi-square distribution with 18 df",
+      "option_d": "chi-square distribution with 36 df",
+      "correct_option": "c"
+   },
+   {
+      "question": "Which of the following distributions looks the most likely as normal distribution?",
+      "qid": 2,
+      "option_a": "chi-square distribution with 4 df",
+      "option_b": "chi-square distribution with 5 df",
+      "option_c": "chi-square distribution with 8 df",
+      "option_d": "chi-square distribution with 30 df",
+      "correct_option": "d"
+   },
+   {
+      "question": "What type of data is suitable for chi-square test for independence?",
+      "qid": 3,
+      "option_a": "categorical data",
+      "option_b": "interval data",
+      "option_c": "ordinal data",
+      "option_d": "continuous data",
+      "correct_option": "a"
+   },
+   {
+      "question": "Which test statuistics is used in chi-square test for independence?",
+      "qid": 4,
+      "option_a": "z statistics",
+      "option_b": "t statistics",
+      "option_c": "F statistics",
+      "option_d": "chi-square statistics",
+      "correct_option": "d"
+   }
+]
